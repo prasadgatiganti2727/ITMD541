@@ -1,0 +1,30 @@
+body {
+  font-family: Lucida Handwriting;
+  background-color:#3A5311;
+  border-style:solid;
+  margin:2px;
+  border-color:#A9BA9D;
+  width:800px;
+  height:630px;
+  margin-left:300px;
+}
+
+.center {
+  text-align: center;
+  color:#B2D3C1;
+  font-size:45px;
+}
+
+.txt_top{
+    margin-top: 30px;
+}
+.txt_middle{
+    margin-top:30px;
+}
+p{
+    margin-left:20px;
+}
+
+h2 {
+  color: #78866B;
+}

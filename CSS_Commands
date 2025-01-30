@@ -1,0 +1,18 @@
+Css Commands:
+1)body:
+Defines the overall style for the webpage background, font, and margins.
+
+2)center:
+Centers the text and applies specific color and font size to it.
+
+3)txt_top:
+Adds top margin to elements with this class, pushing them down.
+
+4)txt_middle:
+Adds top margin to elements with this class, providing space between them and the content above.
+
+5)p:
+Sets the left margin for paragraph text, moving it inward.
+
+6)h2:
+Applies a specific text color to <h2> headers.
