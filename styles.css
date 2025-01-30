@@ -1,18 +1,22 @@
 body {
   font-family: Lucida Handwriting;
-  background-color:#3A5311;
+  background-color:#A5BFCC;
   border-style:solid;
   margin:2px;
-  border-color:#A9BA9D;
+  border-color:#4C585B;
   width:800px;
   height:630px;
   margin-left:300px;
+
 }
 
 .center {
   text-align: center;
-  color:#B2D3C1;
+  color:#441752;
   font-size:45px;
+  border-style:solid;
+  margin:1px;
+  border-color:#7E99A3;
 }
 
 .txt_top{
@@ -23,6 +27,7 @@ body {
 }
 p{
     margin-left:20px;
+    color:#4B164C;
 }
 
 h2 {
